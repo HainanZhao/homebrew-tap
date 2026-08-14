@@ -1,8 +1,8 @@
 class Clock < Formula
   desc "A highly customizable, gorgeous retro terminal clock with premium faces"
   homepage "https://github.com/HainanZhao/clock"
-  url "https://github.com/HainanZhao/clock/archive/e5bba8b7bcc0f1bc28f85469a73fd49ee3c8a449.tar.gz"
-  sha256 "98b386e11e7fe5c1dce3a7438b6e640e35ea7ca9d445bfa88feee4ac81eccfd7"
+  url "https://github.com/HainanZhao/clock/archive/4231fdd520d889533bcc83506462b9972a095197.tar.gz"
+  sha256 "500b493f2bc468c21cc447d8076be43790c2e4585afa48c093e84f9ffe67ae6b"
   license "MIT"
 
   head "https://github.com/HainanZhao/clock.git", branch: "main"
